@@ -4,8 +4,12 @@ This repository features a curated collection of Power BI dashboards and analyti
 ## About Me
 I’m a data enthusiast with hands-on experience in Power BI, dedicated to turning raw data into meaningful stories through analytics and visualization. This portfolio features a collection of my Power BI projects that demonstrate my ability to design insightful dashboards and empower data-driven decision-making.
 
-## Project 1: Daily Logs Dashboard
+## Daily Logs Dashboard
 <img width="1290" height="725" alt="image" src="https://github.com/user-attachments/assets/48e59c84-d8bc-41f1-9834-b0934cbe51b8" />
+
+## % of Unassigned Locations
+<img width="1319" height="731" alt="image" src="https://github.com/user-attachments/assets/e8e0b570-c75d-4aff-9c83-785ba34890f3" />
+
 
 
 
