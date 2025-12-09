@@ -15,3 +15,8 @@ I’m a data enthusiast with hands-on experience in Power BI, dedicated to turni
 ## Global vs Local Checkpoints Dashboard
 
 <img width="1297" height="732" alt="Screenshot 2025-12-09 161501" src="https://github.com/user-attachments/assets/8219754d-f25f-4a76-b324-2f6fe265069d" />
+
+## Rectification Time Analysis
+
+<img width="1294" height="723" alt="image" src="https://github.com/user-attachments/assets/630ae0d5-2f65-4b52-a60c-fba99e6963e4" />
+
