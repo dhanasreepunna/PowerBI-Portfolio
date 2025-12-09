@@ -25,3 +25,13 @@ I’m a data enthusiast with hands-on experience in Power BI, dedicated to turni
 
 <img width="1294" height="723" alt="image" src="https://github.com/user-attachments/assets/630ae0d5-2f65-4b52-a60c-fba99e6963e4" />
 
+## Planned Vs Acheived %
+
+<img width="1298" height="527" alt="image" src="https://github.com/user-attachments/assets/dd12a938-f7fc-4c8e-a029-44c0c5c00388" />
+
+## Manual Logs Dashboard
+
+<img width="936" height="727" alt="image" src="https://github.com/user-attachments/assets/dcbf2301-9ca2-4680-a9c0-bebe233b532a" />
+
+
+
