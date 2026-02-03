@@ -33,5 +33,10 @@ I’m a data enthusiast with hands-on experience in Power BI, dedicated to turni
 
 <img width="936" height="727" alt="image" src="https://github.com/user-attachments/assets/dcbf2301-9ca2-4680-a9c0-bebe233b532a" />
 
+## Support System Dashboard
+
+<img width="1296" height="737" alt="image" src="https://github.com/user-attachments/assets/2d485781-a03a-4a16-991c-f9cbd6fd4d61" />
+
+
 
 
