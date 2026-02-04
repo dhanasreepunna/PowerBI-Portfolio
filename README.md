@@ -10,7 +10,7 @@ To analyze category-wise support ticket performance, monitor unnecessary reassig
 
 https://github.com/user-attachments/assets/50fcffff-1e4b-4143-b6dc-aa546dc1f7b1
 
-![Project](https://img.shields.io/badge/Dailylogs%20Dashboard-1f6feb?style=for-the-badge)
+## ![Project](https://img.shields.io/badge/Dailylogs%20Dashboard-1f6feb?style=for-the-badge)
 
 
 https://github.com/user-attachments/assets/5af52f0c-392f-4d68-9fef-85796d141be7
