@@ -10,8 +10,11 @@ To analyze category-wise support ticket performance, monitor unnecessary reassig
 
 https://github.com/user-attachments/assets/50fcffff-1e4b-4143-b6dc-aa546dc1f7b1
 
-![Header](https://img.shields.io/badge/Daily%20Logs-Overview-blue?style=for-the-badge)
+<h2 style="color:#1f6feb; font-weight:600;">
+Project 2: Superstore Sales Dashboard with Streamlit
+</h2>
 
+<hr style="border:1px solid #30363d;">
 
 https://github.com/user-attachments/assets/5af52f0c-392f-4d68-9fef-85796d141be7
 
