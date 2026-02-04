@@ -9,6 +9,7 @@ Objective:
 To analyze category-wise support ticket performance, monitor unnecessary reassignment of tickets, measure average resolution time, and identify top and bottom issue categories to improve operational efficiency and SLA compliance.
 
 https://github.com/user-attachments/assets/50fcffff-1e4b-4143-b6dc-aa546dc1f7b1
+
 The dashboard focuses on first-time resolution quality, ensuring that raised tickets should resolved or rejected directly without reassignment.
 📊 Key Performance Areas Covered
 🔹 Category-wise Raised Tickets: Shows the volume of tickets raised per category (Quality, Progress, Drawing, Contract, etc.).
