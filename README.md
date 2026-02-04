@@ -5,6 +5,8 @@ This repository features a curated collection of Power BI dashboards and analyti
 I’m a data enthusiast with hands-on experience in Power BI, dedicated to turning raw data into meaningful stories through analytics and visualization. This portfolio features a collection of my Power BI projects that demonstrate my ability to design insightful dashboards and empower data-driven decision-making.
 
 ## Support system Dashboard
+Objective:
+To analyze category-wise support ticket performance, monitor unnecessary reassignment of tickets, measure average resolution time, and identify top and bottom issue categories to improve operational efficiency and SLA compliance.
 
 https://github.com/user-attachments/assets/50fcffff-1e4b-4143-b6dc-aa546dc1f7b1
 
