@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/5af52f0c-392f-4d68-9fef-85796d141be7
 
 ## Global vs Local Checkpoints Dashboard
 
-<img width="1297" height="732" alt="Screenshot 2025-12-09 161501" src="https://github.com/user-attachments/assets/8219754d-f25f-4a76-b324-2f6fe265069d" />
+https://github.com/user-attachments/assets/c9ab6dd3-d502-404d-a4ef-7633bdf0f2fa
 
 ## Daily Labour Count
 
