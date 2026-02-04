@@ -6,7 +6,7 @@ I’m a data enthusiast with hands-on experience in Power BI, dedicated to turni
 
 ## Daily Logs Dashboard
 
-
+https://github.com/user-attachments/assets/5af52f0c-392f-4d68-9fef-85796d141be7
 
 ## % of Unassigned Locations
 
