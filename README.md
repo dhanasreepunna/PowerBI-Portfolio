@@ -10,7 +10,8 @@ To analyze category-wise support ticket performance, monitor unnecessary reassig
 
 https://github.com/user-attachments/assets/50fcffff-1e4b-4143-b6dc-aa546dc1f7b1
 
-## <span style="color:#1f6feb;">Project 2</span>
+![Project](https://img.shields.io/badge/Project%202-Superstore%20Sales%20Dashboard-1f6feb?style=for-the-badge)
+
 
 https://github.com/user-attachments/assets/5af52f0c-392f-4d68-9fef-85796d141be7
 
