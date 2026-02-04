@@ -7,7 +7,7 @@ I’m a data enthusiast with hands-on experience in Power BI, dedicated to turni
 ## Support system Dashboard
 ### Objective:
 
-To analyze category-wise support ticket performance, monitor unnecessary reassignment of tickets, measure average resolution time, and identify top and bottom issue categories to improve operational efficiency and SLA compliance.
+To analyze category-wise support ticket performance, monitor unnecessary reassignment of tickets, measure average resolution time, and identify top and bottom issue categories to improve operational efficiency.
 
 https://github.com/user-attachments/assets/50fcffff-1e4b-4143-b6dc-aa546dc1f7b1
 
@@ -17,8 +17,9 @@ The dashboard focuses on first-time resolution quality, ensuring that raised tic
 
 🔹 Category-wise Raised Tickets: Shows the volume of tickets raised per category (Quality, Progress, Drawing, Contract, etc.).
 
-🔹 Reassigned Tickets: Tracks how many tickets were reassigned after being raised. (RED FLAG "In the ideal process: A ticket should be resolved or rejected directly without reassigned")
-    Reassignment indicates misrouting, unclear ownership, or poor triaging
+🔹 Reassigned Tickets: Tracks how many tickets were reassigned after being raised. (🔴RED FLAG  "In the ideal process: A ticket should be resolved or rejected directly without reassigned").
+    
+ Reassignment indicates misrouting, unclear ownership, or poor triaging
 
 🔹 Average Resolution Time by Category: Measures the average time taken to close a ticket per category.
 
