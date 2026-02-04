@@ -10,7 +10,7 @@ To analyze category-wise support ticket performance, monitor unnecessary reassig
 
 https://github.com/user-attachments/assets/50fcffff-1e4b-4143-b6dc-aa546dc1f7b1
 
-<h2 style="color:#1f6feb;">Daily Logs Dashboard</h2>
+<h2 style="color:#f3b4dc;">Daily Logs Dashboard</h2>
 
 https://github.com/user-attachments/assets/5af52f0c-392f-4d68-9fef-85796d141be7
 
