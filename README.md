@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/c9ab6dd3-d502-404d-a4ef-7633bdf0f2fa
 
 ## Daily Labour Count
 
-<img width="1286" height="723" alt="image" src="https://github.com/user-attachments/assets/df3b4a3b-9905-41ab-abee-a0b8fcd277b0" />
+https://github.com/user-attachments/assets/6445e346-591c-4977-8e6e-9c6dc7692ec8
 
 
 ## Rectification Time Analysis
