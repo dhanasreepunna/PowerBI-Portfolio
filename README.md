@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/5af52f0c-392f-4d68-9fef-85796d141be7
 
 ## Planned Vs Acheived %
 
-<img width="1298" height="527" alt="image" src="https://github.com/user-attachments/assets/dd12a938-f7fc-4c8e-a029-44c0c5c00388" />
+https://github.com/user-attachments/assets/fb9ec651-67a3-4cff-88c7-6eb98c5fdb4c
 
 ## Manual Logs Dashboard
 
