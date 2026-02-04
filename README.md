@@ -29,9 +29,9 @@ https://github.com/user-attachments/assets/6445e346-591c-4977-8e6e-9c6dc7692ec8
 
 https://github.com/user-attachments/assets/fb9ec651-67a3-4cff-88c7-6eb98c5fdb4c
 
-## Manual Logs Dashboard
+## Purchase Order Advance
 
-<img width="936" height="727" alt="image" src="https://github.com/user-attachments/assets/dcbf2301-9ca2-4680-a9c0-bebe233b532a" />
+https://github.com/user-attachments/assets/e042773d-b0dd-4b18-a659-5f2b54be8cbb
 
 ## Support System Dashboard
 
