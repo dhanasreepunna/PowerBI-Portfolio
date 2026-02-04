@@ -17,7 +17,8 @@ The dashboard focuses on first-time resolution quality, ensuring that raised tic
 
 🔹 Category-wise Raised Tickets: Shows the volume of tickets raised per category (Quality, Progress, Drawing, Contract, etc.).
 
-🔹 Reassigned Tickets (Process Leakage Indicator): Tracks how many tickets were reassigned after being raised.
+🔹 Reassigned Tickets: Tracks how many tickets were reassigned after being raised. (RED FLAG "In the ideal process: A ticket should be resolved or rejected directly without reassigned")
+    Reassignment indicates misrouting, unclear ownership, or poor triaging
 
 🔹 Average Resolution Time by Category: Measures the average time taken to close a ticket per category.
 
@@ -25,11 +26,11 @@ The dashboard focuses on first-time resolution quality, ensuring that raised tic
 
 🚀 Business Value
 
-Improves first-time resolution rate.
+🔹 Improves first-time resolution rate.
 
-Reduces unnecessary ticket reassignment.
+🔹 Reduces unnecessary ticket reassignment.
 
-Identifies root causes of recurring issues.
+🔹 Identifies root causes of recurring issues.
 
 
 ## DailyLogs Dashboard
