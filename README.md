@@ -9,11 +9,19 @@ Objective:
 To analyze category-wise support ticket performance, monitor unnecessary reassignment of tickets, measure average resolution time, and identify top and bottom issue categories to improve operational efficiency and SLA compliance.
 
 https://github.com/user-attachments/assets/50fcffff-1e4b-4143-b6dc-aa546dc1f7b1
+The dashboard focuses on first-time resolution quality, ensuring that raised tickets should resolved or rejected directly without reassignment.
+📊 Key Performance Areas Covered
+🔹 Category-wise Raised Tickets: Shows the volume of tickets raised per category (Quality, Progress, Drawing, Contract, etc.).
+🔹 Reassigned Tickets (Process Leakage Indicator): Tracks how many tickets were reassigned after being raised.
+🔹 Average Resolution Time by Category: Measures the average time taken to close a ticket per category.
+🔹 First Attempt Closed Tickets: Indicates how many tickets were closed without reassignment or reopening. Serves as a quality-of-resolution metric.
+🚀 Business Value
+Improves first-time resolution rate.
+Reduces unnecessary ticket reassignment.
+Identifies root causes of recurring issues.
 
-<h2 style="color:#1f6feb; font-weight:600;">
-DailyLogs Dashboard
-</h2>
-<hr>
+
+## DailyLogs Dashboard
 
 https://github.com/user-attachments/assets/5af52f0c-392f-4d68-9fef-85796d141be7
 
