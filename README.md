@@ -4,7 +4,9 @@ This repository features a curated collection of Power BI dashboards and analyti
 ## About Me
 I’m a data enthusiast with hands-on experience in Power BI, dedicated to turning raw data into meaningful stories through analytics and visualization. This portfolio features a collection of my Power BI projects that demonstrate my ability to design insightful dashboards and empower data-driven decision-making.
 
+
 ## Support system Dashboard
+
 ### Objective:
 
 To analyze category-wise support ticket performance, monitor unnecessary reassignment of tickets, measure average resolution time, and identify top and bottom issue categories to improve operational efficiency.
@@ -82,6 +84,7 @@ Compared against defined Min and Max thresholds.
 
 🔹 Possible data quality issues.
 
+
 ## Purchase Order Advance
 
 ### Objective:
@@ -121,7 +124,8 @@ Helps procurement teams prioritize follow-ups with slow-performing vendors.
 
 🔹 Early advance payments improve vendor responsiveness and priority execution.
 
-<span style="color: blue; font-weight: 600;">Global vs Local Checkpoints Dashboard</span>
+
+## Global vs Local Checkpoints Dashboard
 
 ### Objective
 Ensure quality checks are mandatory and consistent across projects by assigning every Global Checkpoint to relevant Local (Project-wise) checkpoints, so that no work package is closed without quality verification.
@@ -161,6 +165,7 @@ Helps trace: which area, which work type, which location
 🔹 Even 0.3% unassigned is high risk in construction quality
 
 🔹 Projects with high assignment % show better process maturity
+
 
 ## Daily Labour Count
 
@@ -203,6 +208,7 @@ Each bar represents the total labor deployed for the selected period.
 🔹 Supports manpower planning and budgeting
 
 🔹 Improves workforce utilization efficiency
+
 
 ## Planned Vs Acheived %
 
