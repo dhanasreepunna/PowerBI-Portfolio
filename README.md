@@ -127,7 +127,44 @@ Helps procurement teams prioritize follow-ups with slow-performing vendors.
 
 ## Global vs Local Checkpoints Dashboard
 
+###Objective:
+Ensure quality checks are mandatory and consistent across projects by assigning every Global Checkpoint to relevant Local (Project-wise) checkpoints, so that no work package is closed without quality verification.
+
 https://github.com/user-attachments/assets/c9ab6dd3-d502-404d-a4ef-7633bdf0f2fa
+
+A work package must have an assigned local checkpoint to validate quality after completion.
+
+📊 Key metrics
+
+KPI Cards 
+
+🔹 Total Global Checkpoints: Count of Global Checkpoints
+
+🔹 Unassigned Local Checkpoints (%) : % of global checkpoints that are not properly mapped to projects
+
+🔹 Unassigned Locations (Count): Count of unassigned checkpoints(Locations / work packages where quality cannot be checked)
+
+🔹 These are direct quality risks
+
+COUNT OF UNASSIGNED CHECKPOINT BY SUPERLOCATION: Which site zones (Basement, Podium, Tower, etc.) lack local checkpoint assignment.
+
+🔹 Helps site engineers immediately know where quality checks are missing.
+
+GLOBAL VA LOCAL CHECKPOINT COUNT : Comparison between Expected checkpoints (Global) and Actual checkpoints created (Local)
+
+🔹 Helps that those work packages should not be allowed to close.
+
+DECOMPOSITION VISUAL: Exact path of missing checkpoints. (Super Location → Location Type → Location → Workpackage)
+
+Helps trace: which area, which work type, which location
+
+🎯 Business Insights
+
+🔹 Any unassigned local checkpoint = quality cannot be verified
+
+🔹 Even 0.3% unassigned is high risk in construction quality
+
+🔹 Projects with high assignment % show better process maturity
 
 ## Daily Labour Count
 
