@@ -15,17 +15,17 @@ The dashboard focuses on first-time resolution quality, ensuring that raised tic
 
 📊 Key Metrics
 
-🔹 Category-wise Raised Tickets: Shows the volume of tickets raised per category (Quality, Progress, Drawing, Contract, etc.).
+🔹 _CATEGORY WISE RAISED TICKETS_: Shows the volume of tickets raised per category (Quality, Progress, Drawing, Contract, etc.).
 
-🔹 Reassigned Tickets: Tracks how many tickets were reassigned after being raised. 
+🔹 _REASSIGNED TICKETS_: Tracks how many tickets were reassigned after being raised. 
 
-🔴RED FLAG:  "In the ideal process: A ticket should be resolved or rejected directly without reassigned".
+🔴 _RED FLAG_:  "In the ideal process: A ticket should be resolved or rejected directly without reassigned".
     
 🔹 Reassignment indicates misrouting, unclear and poor triaging.
 
-🔹 Average Resolution Time by Category: Measures the average time taken to close a ticket per category.
+🔹 _AVERAGE RESOLUTION TIME BY CATEGORY_: Measures the average time taken to close a ticket per category.
 
-🔹 First Attempt Closed Tickets: Indicates how many tickets were closed without reassignment or reopening. Serves as a quality-of-resolution metric.
+🔹 _FIRST ATTEMPT CLOSED TICKETS (KPI)_: Indicates how many tickets were closed without reassignment or reopening. Serves as a quality-of-resolution metric.
 
 🎯 Business Insights
 
@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/5af52f0c-392f-4d68-9fef-85796d141be7
 
 📊 Key Metrics
 
-KPI Cards
+_KPI Cards_
 
 🔴 % Out of Range
 
@@ -53,14 +53,16 @@ For example- ~89.18% indicates a very high share of daily logs are outside the d
 This means most work packages are not completed within the acceptable time window.
 
 🔴 Outside Range
+
 For exmple- ~6,646 indicates these work packages were completed either below Min or above Max, both treated as issues.
 
 ✅ Within Range
+
 For exmple- ~724 Only a small portion of work packages were completed correctly within Min–Max limits.
 
-🔹 Daily Logs: Day-wise count of daily logs for the selected Project , Year , Month.
+🔹 _DAILYLOGS_: Day-wise count of daily logs for the selected Project , Year , Month.
 
-🔹 Actual Duration vs Min–Max Time: Each bar represents a work package’s actual completion duration.
+🔹 _ACTUAL DURATION VS MIN & MAX TIME_: Each bar represents a work package’s actual completion duration.
 
 Compared against defined Min and Max thresholds.
 
@@ -70,7 +72,7 @@ Compared against defined Min and Max thresholds.
 
 🔴 Above Max → Delayed execution
 
-🎯 Key Insight:
+🎯 Business Insight:
 
 🔹 Most work packages fall outside the Min–Max band.
 
@@ -99,23 +101,17 @@ This dashboard enables procurement and finance teams to:
 
 🔹 Identify high-risk POs with low recovery and high balance exposure
 
-📊 Key Performance Areas Covered
+📊 Key Metrics
 
-🔹 Advance Outstanding with Vendor: Displays total pending advance amount currently lying with vendors.
+🔹 _RECOVERY AMOUNT AND PENDING AMOUNT_: Displays total pending advance amount currently lying with vendors.
 
 Example Insight: ~90.76% of the advance is recovered, while ~9.24% remains pending — highlighting controlled but active exposure.
 
-🔹 Quantity Yet to Be Received: Shows remaining quantity against each PO and material.
-
-Highlights materials where:
+🔹 _QUANTITY YET TO BE DELIVERED_: Shows remaining quantity against each PO and material.
 
 Advance is paid where delivery has not started or is delayed
 
-🔹 Vendor-wise Performance
-
-Advance recovery %
-
-Delivery completion by vendor
+🔹 _VENDOR WISE PERFORMANCE_: Advance recovery %, Delivery completion by vendor
 
 Helps procurement teams prioritize follow-ups with slow-performing vendors.
 
@@ -149,7 +145,7 @@ This dashboard helps project teams understand:
 
 🔹 How labor strength varies by day, month, and project
 
-📊 Key Performance Areas Covered
+📊 Key Metrics
 
 🔹 The line chart shows the usage of methodologies per day
 
@@ -159,8 +155,7 @@ This dashboard helps project teams understand:
 
 Each bar represents the total labor deployed for the selected period.
 
-🔹Pie Chart – Labor Distribution: The pie chart shows labor distribution across projects for the selected time period.
-
+🔹 _PIE CHART_ LABOR DISTRIBUTION_: The pie chart shows labor distribution across projects for the selected time period.
 
 🎯 Business Insights
 
@@ -193,11 +188,11 @@ This dashboard helps stakeholders:
 
 📊 Key Metrics 
 
-🔹 Total Achieved %(KPI): Represents the cumulative actual progress completed till date.
+🔹 _TOTAL ACHIEVED%(KPI)_: Represents the cumulative actual progress completed till date.
 
 Example shown: 53.49% achieved against the total project scope.
 
-🔹 Planned vs Achieved Trend:The line chart indicates the target and achieve percentage per day, month, year.
+🔹 _PLANNED VS ACHIEVED TRENDS_: The line chart indicates the target and achieve percentage per day, month, year.
 (The shaded area between the curves indicates the progress gap.)
 
 🔹 If Achieved < Planned → Project is behind schedule
