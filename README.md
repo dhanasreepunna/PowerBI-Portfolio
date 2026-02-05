@@ -15,17 +15,17 @@ The dashboard focuses on first-time resolution quality, ensuring that raised tic
 
 📊 Key Metrics
 
-🔹 _CATEGORY WISE RAISED TICKETS_: Shows the volume of tickets raised per category (Quality, Progress, Drawing, Contract, etc.).
+🔹 CATEGORY WISE RAISED TICKETS: Shows the volume of tickets raised per category (Quality, Progress, Drawing, Contract, etc.).
 
-🔹 _REASSIGNED TICKETS_: Tracks how many tickets were reassigned after being raised. 
+🔹 REASSIGNED TICKETS: Tracks how many tickets were reassigned after being raised. 
 
-🔴 _RED FLAG_:  "In the ideal process: A ticket should be resolved or rejected directly without reassigned".
+🔴 RED FLAG:  "In the ideal process: A ticket should be resolved or rejected directly without reassigned".
     
 🔹 Reassignment indicates misrouting, unclear and poor triaging.
 
-🔹 _AVERAGE RESOLUTION TIME BY CATEGORY_: Measures the average time taken to close a ticket per category.
+🔹 AVERAGE RESOLUTION TIME BY CATEGORY: Measures the average time taken to close a ticket per category.
 
-🔹 _FIRST ATTEMPT CLOSED TICKETS (KPI)_: Indicates how many tickets were closed without reassignment or reopening. Serves as a quality-of-resolution metric.
+🔹 FIRST ATTEMPT CLOSED TICKETS (KPI): Indicates how many tickets were closed without reassignment or reopening. Serves as a quality-of-resolution metric.
 
 🎯 Business Insights
 
@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/5af52f0c-392f-4d68-9fef-85796d141be7
 
 📊 Key Metrics
 
-_KPI Cards_
+KPI Cards
 
 🔴 % Out of Range
 
@@ -60,9 +60,9 @@ For exmple- ~6,646 indicates these work packages were completed either below Min
 
 For exmple- ~724 Only a small portion of work packages were completed correctly within Min–Max limits.
 
-🔹 _DAILYLOGS_: Day-wise count of daily logs for the selected Project , Year , Month.
+🔹 DAILYLOGS: Day-wise count of daily logs for the selected Project , Year , Month.
 
-🔹 _ACTUAL DURATION VS MIN & MAX TIME_: Each bar represents a work package’s actual completion duration.
+🔹 ACTUAL DURATION VS MIN & MAX TIME: Each bar represents a work package’s actual completion duration.
 
 Compared against defined Min and Max thresholds.
 
@@ -103,15 +103,15 @@ This dashboard enables procurement and finance teams to:
 
 📊 Key Metrics
 
-🔹 _RECOVERY AMOUNT AND PENDING AMOUNT_: Displays total pending advance amount currently lying with vendors.
+🔹 RECOVERY AMOUNT AND PENDING AMOUNT: Displays total pending advance amount currently lying with vendors.
 
 Example Insight: ~90.76% of the advance is recovered, while ~9.24% remains pending — highlighting controlled but active exposure.
 
-🔹 _QUANTITY YET TO BE DELIVERED_: Shows remaining quantity against each PO and material.
+🔹 QUANTITY YET TO BE DELIVERED: Shows remaining quantity against each PO and material.
 
 Advance is paid where delivery has not started or is delayed
 
-🔹 _VENDOR WISE PERFORMANCE_: Advance recovery %, Delivery completion by vendor
+🔹 VENDOR WISE PERFORMANCE: Advance recovery %, Delivery completion by vendor
 
 Helps procurement teams prioritize follow-ups with slow-performing vendors.
 
@@ -155,7 +155,7 @@ This dashboard helps project teams understand:
 
 Each bar represents the total labor deployed for the selected period.
 
-🔹 _PIE CHART_ LABOR DISTRIBUTION_: The pie chart shows labor distribution across projects for the selected time period.
+🔹 PIE CHART_ LABOR DISTRIBUTION: The pie chart shows labor distribution across projects for the selected time period.
 
 🎯 Business Insights
 
@@ -188,11 +188,11 @@ This dashboard helps stakeholders:
 
 📊 Key Metrics 
 
-🔹 _TOTAL ACHIEVED%(KPI)_: Represents the cumulative actual progress completed till date.
+🔹 TOTAL ACHIEVED%(KPI): Represents the cumulative actual progress completed till date.
 
 Example shown: 53.49% achieved against the total project scope.
 
-🔹 _PLANNED VS ACHIEVED TRENDS_: The line chart indicates the target and achieve percentage per day, month, year.
+🔹 PLANNED VS ACHIEVED TRENDS: The line chart indicates the target and achieve percentage per day, month, year.
 (The shaded area between the curves indicates the progress gap.)
 
 🔹 If Achieved < Planned → Project is behind schedule
@@ -200,8 +200,14 @@ Example shown: 53.49% achieved against the total project scope.
    If Achieved ≈ Planned → Project is on track
 
    If Achieved > Planned → Project is ahead of schedule
+   
+🎯 Business Insights
 
+🔹 The Achieved curve remains consistently below the Planned curve, indicating a schedule lag.
 
+🔹 Enables early detection of schedule slippage.
+
+🔹 Improves communication between execution teams and management.
 
 
 
