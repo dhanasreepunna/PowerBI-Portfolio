@@ -121,13 +121,9 @@ Helps procurement teams prioritize follow-ups with slow-performing vendors.
 
 🔹 Early advance payments improve vendor responsiveness and priority execution.
 
-## % of Unassigned Locations
-
-<img width="1319" height="731" alt="image" src="https://github.com/user-attachments/assets/e8e0b570-c75d-4aff-9c83-785ba34890f3" />
-
 ## Global vs Local Checkpoints Dashboard
 
-###Objective:
+### Objective
 Ensure quality checks are mandatory and consistent across projects by assigning every Global Checkpoint to relevant Local (Project-wise) checkpoints, so that no work package is closed without quality verification.
 
 https://github.com/user-attachments/assets/c9ab6dd3-d502-404d-a4ef-7633bdf0f2fa
