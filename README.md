@@ -121,7 +121,7 @@ Helps procurement teams prioritize follow-ups with slow-performing vendors.
 
 🔹 Early advance payments improve vendor responsiveness and priority execution.
 
-## Global vs Local Checkpoints Dashboard
+<span style="color: blue; font-weight: 600;">Global vs Local Checkpoints Dashboard</span>
 
 ### Objective
 Ensure quality checks are mandatory and consistent across projects by assigning every Global Checkpoint to relevant Local (Project-wise) checkpoints, so that no work package is closed without quality verification.
@@ -207,6 +207,7 @@ Each bar represents the total labor deployed for the selected period.
 ## Planned Vs Acheived %
 
 ### Objective:
+
 To track cumulative project progress (%) against the planned baseline over time and to evaluate whether the project is achieving the required daily progress rate to meet planned milestones.
 
 https://github.com/user-attachments/assets/fb9ec651-67a3-4cff-88c7-6eb98c5fdb4c
