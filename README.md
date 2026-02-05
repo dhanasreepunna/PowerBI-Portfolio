@@ -13,19 +13,21 @@ https://github.com/user-attachments/assets/50fcffff-1e4b-4143-b6dc-aa546dc1f7b1
 
 The dashboard focuses on first-time resolution quality, ensuring that raised tickets should resolved or rejected directly without reassignment.
 
-📊 Key Performance Areas Covered
+📊 Key Metrics
 
 🔹 Category-wise Raised Tickets: Shows the volume of tickets raised per category (Quality, Progress, Drawing, Contract, etc.).
 
-🔹 Reassigned Tickets: Tracks how many tickets were reassigned after being raised. (🔴RED FLAG  "In the ideal process: A ticket should be resolved or rejected directly without reassigned").
+🔹 Reassigned Tickets: Tracks how many tickets were reassigned after being raised. 
+
+🔴RED FLAG:  "In the ideal process: A ticket should be resolved or rejected directly without reassigned".
     
- Reassignment indicates misrouting, unclear ownership, or poor triaging
+🔹 Reassignment indicates misrouting, unclear and poor triaging.
 
 🔹 Average Resolution Time by Category: Measures the average time taken to close a ticket per category.
 
 🔹 First Attempt Closed Tickets: Indicates how many tickets were closed without reassignment or reopening. Serves as a quality-of-resolution metric.
 
-🚀 Business Value
+🎯 Business Insights
 
 🔹 Improves first-time resolution rate.
 
@@ -40,6 +42,43 @@ The dashboard focuses on first-time resolution quality, ensuring that raised tic
 To monitor daily work package (WP) completion performance by tracking the number of logs completed per day and evaluating whether each work package is completed within, below, or above the defined SLA time range (Min–Max duration).
 
 https://github.com/user-attachments/assets/5af52f0c-392f-4d68-9fef-85796d141be7
+
+📊 Key Metrics
+
+KPI Cards
+
+🔴 % Out of Range
+
+For example- ~89.18% indicates a very high share of daily logs are outside the defined Min–Max duration.
+This means most work packages are not completed within the acceptable time window.
+
+🔴 Outside Range
+For exmple- ~6,646 indicates these work packages were completed either below Min or above Max, both treated as issues.
+
+✅ Within Range
+For exmple- ~724 Only a small portion of work packages were completed correctly within Min–Max limits.
+
+🔹 Daily Logs: Day-wise count of daily logs for the selected Project , Year , Month.
+
+🔹 Actual Duration vs Min–Max Time: Each bar represents a work package’s actual completion duration.
+
+Compared against defined Min and Max thresholds.
+
+✅ Within Min–Max → Correct execution,
+
+🔴 Below Min → Too fast (possible incomplete work / incorrect logging)
+
+🔴 Above Max → Delayed execution
+
+🎯 Key Insight:
+
+🔹 Most work packages fall outside the Min–Max band.
+
+🔹 High log count does not automatically mean good performance — quality depends on Min–Max compliance
+
+🔹 Poor planning or supervision.
+
+🔹 Possible data quality issues.
 
 ## Purchase Order Advance
 
@@ -80,7 +119,7 @@ Delivery completion by vendor
 
 Helps procurement teams prioritize follow-ups with slow-performing vendors.
 
-🚀 Business Insights
+🎯 Business Insights
 
 🔹 Ensures on-time material availability.
 
@@ -123,7 +162,7 @@ Each bar represents the total labor deployed for the selected period.
 🔹Pie Chart – Labor Distribution: The pie chart shows labor distribution across projects for the selected time period.
 
 
-🚀 Business Insights
+🎯 Business Insights
 
 🔹 Consistent upward trend → Feature is gaining acceptance and trust
 
@@ -152,7 +191,8 @@ This dashboard helps stakeholders:
 
 🔹 Support timely corrective actions to ensure on-time project delivery
 
-📊 Key Metrics Explained
+📊 Key Metrics 
+
 🔹 Total Achieved %(KPI): Represents the cumulative actual progress completed till date.
 
 Example shown: 53.49% achieved against the total project scope.
